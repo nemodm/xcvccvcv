@@ -1,0 +1,59 @@
+header,
+.no1 {
+  widows: 100%;
+  height: 100vh;
+  background: url("image/photo_2023-11-06_21-36-57.jpg") no-repeat center center /
+    cover;
+}
+
+.no2 {
+  background: url("image/send.jpeg") no-repeat center center / cover;
+}
+
+.no3 {
+  background: url("image/osh.webp") no-repeat center center / cover;
+}
+
+.no4 {
+  background: url("image/donar.jpg") no-repeat center center / cover;
+}
+
+.no5 {
+  background: url("image/lavash.jpg") no-repeat center center / cover;
+}
+
+.no6 {
+  background: url("image/besh.jpg") no-repeat center center / cover;
+}
+
+.rr {
+  width: 100%;
+}
+
+.cl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.btn {
+  width: 100px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 260px;
+}
+
+body .h1 {
+  color: #fff;
+  font-size: 60px;
+  font-family: "Courier New", Courier, monospace;
+}
